@@ -1,4 +1,4 @@
-# SVM_examples_IRIS_DATA
+# SVM_example_IRIS_DATA
 Used SVM in IRIS_data, 
 IRIS_data set is imported from sklearn.datasets, 
 Created different models with diffrenet kernals which include "linear","poly","rbf","sigamoid" and found best model, 
